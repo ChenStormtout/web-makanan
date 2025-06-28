@@ -33,8 +33,8 @@ class DashboardController extends Controller
         $userId = $user->id;
 
         // Ambil makanan & minuman terbaru
-        $makanan = Product::whereHas('category', fn($q) => $q->where('name', 'makanan'))->latest()->get();
-        $minuman = Product::whereHas('category', fn($q) => $q->where('name', 'minuman'))->latest()->get();
+        $makanan = product::whereHas('category', fn($q) => $q->where('name', 'makanan'))->latest()->get();
+        $minuman = product::whereHas('category', fn($q) => $q->where('name', 'minuman'))->latest()->get();
 
         // Hitung pesanan menunggu (selain status "done")
         $pendingOrdersCount = Order::where('user_id', $userId)
