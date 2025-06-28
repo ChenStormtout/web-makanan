@@ -382,7 +382,7 @@
             
             {{-- Pindahkan link WhatsApp keluar dari 'space-y-2' --}}
             @if(auth()->user()->role !== 'admin') {{-- Pastikan hanya untuk customer --}}
-                <a href="https://wa.me/6281234567890?text=Halo%20SeblakMania,%20saya%20punya%20pertanyaan%20tentang%20pesanan%20saya." 
+                <a href="https://wa.me/628970283052?text=Halo%20SeblakMania,%20saya%20punya%20pertanyaan%20tentang%20pesanan%20saya." 
                     target="_blank" 
                     class="nav-link whatsapp-link">
                     <i data-lucide="message-circle-more"></i> 
