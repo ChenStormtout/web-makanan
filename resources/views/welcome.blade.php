@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SeblakMania - Delivery Seblak Terbaik</title>
-    <link href="" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --primary-color: #FF7043; /* Oranye Kemerahan yang lebih lembut */
@@ -46,7 +46,7 @@
             right: 0;
             bottom: 0;
             /* Pola grain yang lebih halus dan transparan */
-            background: url('data:image/svg+xml,<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="20" cy="20" r="0.8" fill="rgba(255,255,255,0.05)"/><circle cx="80" cy="40" r="0.6" fill="rgba(255,255,255,0.04)"/><circle cx="40" cy="80" r="1" fill="rgba(255,255,255,0.03)"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="20" cy="20" r="0.8" fill="rgba(255,255,255,0.05)"/><circle cx="80" cy="40" r="0.6" fill="rgba(255,255,255,0.04)"/><circle cx="40" cy="80" r="1" fill="rgba(255,255,255,0.03)"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
             pointer-events: none;
             opacity: 0.7; /* Sedikit lebih terlihat */
         }
@@ -429,7 +429,7 @@
         <div class="card-container">
             <div class="main-card">
                 <div class="seblak-icon">
-                    <img src="" alt="Logo SeblakMania">
+                    <img src="https://thegorbalsla.com/wp-content/uploads/2018/10/gambar-karikatur-jokowi.jpg" alt="Logo SeblakMania">
                 </div>
                 <h2 class="card-title">SeblakMania</h2>
                 <p class="card-subtitle">
