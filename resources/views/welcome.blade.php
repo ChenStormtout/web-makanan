@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SeblakMania - Delivery Seblak Terbaik</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="" rel="stylesheet">
     <style>
         :root {
             --primary-color: #FF7043; /* Oranye Kemerahan yang lebih lembut */
@@ -429,7 +429,7 @@
         <div class="card-container">
             <div class="main-card">
                 <div class="seblak-icon">
-                    <img src="https://thegorbalsla.com/wp-content/uploads/2018/10/gambar-karikatur-jokowi.jpg" alt="Logo SeblakMania">
+                    <img src="" alt="Logo SeblakMania">
                 </div>
                 <h2 class="card-title">SeblakMania</h2>
                 <p class="card-subtitle">
