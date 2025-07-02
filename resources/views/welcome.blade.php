@@ -429,7 +429,7 @@
         <div class="card-container">
             <div class="main-card">
                 <div class="seblak-icon">
-                    <img src="https://thegorbalsla.com/wp-content/uploads/2018/10/gambar-karikatur-jokowi.jpg" alt="Logo SeblakMania">
+                    <img src="https://img.freepik.com/vector-premium/indonesia-comida-tradicional-seblak-logo-ilustracion_593024-7.jpg" alt="Logo SeblakMania">
                 </div>
                 <h2 class="card-title">SeblakMania</h2>
                 <p class="card-subtitle">
